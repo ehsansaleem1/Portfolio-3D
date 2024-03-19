@@ -23,6 +23,9 @@ import {
   jobit,
   tripguide,
   threejs,
+  discreet,
+  port,
+  buzz
 } from "../assets";
 
 export const navLinks = [
@@ -215,7 +218,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: discreet,
     source_code_link: "https://github.com/ehsansaleem1",
   },
   {
@@ -236,7 +239,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: buzz,
     source_code_link: "https://github.com/ehsansaleem1",
   },
   {
@@ -257,7 +260,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: port,
     source_code_link: "https://github.com/ehsansaleem1",
   },
 ];
